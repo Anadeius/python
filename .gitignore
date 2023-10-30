@@ -1,1 +1,2 @@
 flask_blog/database.db
+flask_blog/__pycache__/
